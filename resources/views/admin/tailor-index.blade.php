@@ -186,7 +186,7 @@
             }
         });
     }
-
+    //
     function openEditTailorModal(id, name, email, phone) {
         console.log(id);
         document.getElementById('tailorEditModal').classList.remove('hidden');
